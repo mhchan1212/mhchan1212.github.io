@@ -1,11 +1,13 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.mhchan.my_app_container",
+      "package_name": "com.dayone.demo",
       "sha256_cert_fingerprints": [
-        "32:60:16:9B:C4:F0:4F:33:BF:57:2D:5B:58:DF:E7:D8:DF:DC:92:3C:65:D5:EA:17:8D:E1:89:1D:C1:BF:AF:82"
+        "86:75:70:D6:25:8E:28:8F:C0:39:B3:17:6E:7C:81:2B:2B:E5:08:9B:6F:BD:AA:84:CB:90:57:66:6B:00:34:03"
       ]
     }
   }
